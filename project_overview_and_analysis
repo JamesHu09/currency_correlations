@@ -1,0 +1,9 @@
+Through this project, I found the correlations in value fluctuation relative to USD between the world's most traded currencies from 2000 to 2017 and 6 months.
+Of the top ten traded currencies, had to exclude USD, as USD is constant relative to USD and thus has no fluctuation. 
+The remaining 9 currencies were from Australia, Hong Kong, Japan, China, the European Union, New Zealand, Sweden, Great Britain, and Canada.
+The three strongest correlations were (Canada, Australia), (New Zealand, Australia), and (Canada, European Union).
+The three smallest correlations were (Japan, Great Britain), (Hong Kong, Great Britain), and (New Zealand, Great Britain).
+New Zealand, the European Union, Sweden, Australia, and Canada all had currencies that had a somewhat strong correlation with each other.
+China and Japan demonstrated moderate correlations with each other and with most other countries.
+Hong Kong and Great Britain both had currencies that only showed weak correlations with other currencies.
+Great Britain was an outlier, showing far weaker correlations than the other countries. 
